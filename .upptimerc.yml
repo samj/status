@@ -5,14 +5,22 @@ repo: status # The name of this repository
 sites:
   - name: Github
     url: https://www.github.com
+  - name: Sam Johnston
+    url: https://samjohnston.org
+    icon: https://status.samj.net/logo.png
+  - name: pAI-OS
+    url: https://paios.org
+    icon: https://paios.org/img/favicon.ico
   - name: London
     check: "tcp-ping"
     url: $IP_LON
     port: 22
+    icon: https://status.samj.net/logo-mg.png
   - name: New York
     check: "tcp-ping"
     url: $IP_NYC
     port: 22
+    icon: https://status.samj.net/logo-mg.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,7 +30,7 @@ status-website:
   logoUrl: https://status.samj.net/logo.png
   favicon: https://status.samj.net/logo.png
   name: Sam Johnston's Status Page
-  introTitle: "Monitors various sites and services for [Sam Johnston](https://samjohnston.org)."
+  introTitle: "Monitors several of [Sam Johnston](https://samjohnston.org)'s sites and services."
   introMessage: If you don't know what this is, you probably don't need to worry about it.
   navbar:
     - title: Status
