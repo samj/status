@@ -19,8 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.samj.net
   baseUrl: /
-  logoUrl: logo.png
-  favicon: logo.png
+  logoUrl: https://status.samj.net/logo.png
+  favicon: https://status.samj.net/logo.png
   name: Sam Johnston's Status Page
   introTitle: "Monitors various sites and services for [Sam Johnston](https://samjohnston.org)."
   introMessage: If you don't know what this is, you probably don't need to worry about it.
