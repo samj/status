@@ -58,19 +58,19 @@
     "url": "$IP_FRA",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "frankfurt",
-    "status": "up",
-    "uptime": "82.87%",
-    "uptimeDay": "82.87%",
-    "uptimeWeek": "82.87%",
-    "uptimeMonth": "82.87%",
-    "uptimeYear": "82.87%",
+    "status": "down",
+    "uptime": "82.77%",
+    "uptimeDay": "82.77%",
+    "uptimeWeek": "82.77%",
+    "uptimeMonth": "82.77%",
+    "uptimeYear": "82.77%",
     "time": 157,
     "timeDay": 157,
     "timeWeek": 157,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-11-30": 139
+      "2024-11-30": 142
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "london",
     "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.17%",
+    "uptime": "97.81%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 174,
     "timeDay": 123,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-11-30": 50
+      "2024-11-30": 61
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
     "status": "down",
-    "uptime": "52.12%",
+    "uptime": "51.93%",
     "uptimeDay": "31.60%",
-    "uptimeWeek": "52.12%",
-    "uptimeMonth": "52.12%",
-    "uptimeYear": "52.12%",
+    "uptimeWeek": "51.93%",
+    "uptimeMonth": "51.93%",
+    "uptimeYear": "51.93%",
     "time": 94,
     "timeDay": 127,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-11-30": 870,
+      "2024-11-30": 880,
       "2024-11-29": 447
     }
   }
