@@ -76,19 +76,19 @@
     "url": "$IP_NYC",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
-    "status": "down",
-    "uptime": "69.64%",
-    "uptimeDay": "65.03%",
-    "uptimeWeek": "69.64%",
-    "uptimeMonth": "69.64%",
-    "uptimeYear": "69.64%",
+    "status": "up",
+    "uptime": "68.39%",
+    "uptimeDay": "62.92%",
+    "uptimeWeek": "68.39%",
+    "uptimeMonth": "68.39%",
+    "uptimeYear": "68.39%",
     "time": 117,
     "timeDay": 115,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-11-30": 56,
+      "2024-11-30": 86,
       "2024-11-29": 447
     }
   }
