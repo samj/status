@@ -1,7 +1,7 @@
 url: $IP_FRA
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2024-11-30T23:07:30.302Z
+lastUpdated: 2024-11-30T23:19:52.182Z
 startTime: 2024-11-30T07:51:55.392Z
 generator: Upptime <https://github.com/upptime/upptime>
