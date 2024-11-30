@@ -11,6 +11,11 @@ sites:
   - name: pAI-OS
     url: https://paios.org
     icon: https://paios.org/img/favicon.ico
+  - name: Frankfurt
+    check: "tcp-ping"
+    url: $IP_FRA
+    port: 22
+    icon: https://status.samj.net/logo-mg.png
   - name: London
     check: "tcp-ping"
     url: $IP_LON
