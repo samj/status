@@ -1,7 +1,7 @@
 url: https://samjohnston.org
-status: up
-code: 200
-responseTime: 1227
-lastUpdated: 2026-01-08T14:28:46.584Z
+status: down
+code: 415
+responseTime: 1023
+lastUpdated: 2026-01-08T20:43:53.413Z
 startTime: 2024-11-28T23:56:31.054Z
 generator: Upptime <https://github.com/upptime/upptime>
