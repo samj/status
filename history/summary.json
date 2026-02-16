@@ -31,17 +31,17 @@
     "slug": "sam-johnston",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "96.77%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "99.49%",
     "time": 1712,
-    "timeDay": 1637,
+    "timeDay": 1710,
     "timeWeek": 1769,
     "timeMonth": 1894,
     "timeYear": 1734,
     "dailyMinutesDown": {
-      "2026-02-15": 110,
+      "2026-02-15": 98,
       "2026-02-14": 139,
       "2026-02-13": 36,
       "2026-02-12": 22,
@@ -132,7 +132,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.19%",
+    "uptimeYear": "85.20%",
     "time": 132,
     "timeDay": 141,
     "timeWeek": 117,
@@ -192,8 +192,7 @@
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
-      "2025-02-17": 1440,
-      "2025-02-16": 1440
+      "2025-02-17": 1440
     }
   },
   {
