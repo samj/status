@@ -13,7 +13,7 @@
     "time": 263,
     "timeDay": 236,
     "timeWeek": 344,
-    "timeMonth": 341,
+    "timeMonth": 351,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2026-02-27": 17,
@@ -35,12 +35,12 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.19%",
-    "uptimeMonth": "96.17%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "99.43%",
     "time": 1731,
     "timeDay": 2030,
     "timeWeek": 2190,
-    "timeMonth": 1855,
+    "timeMonth": 1833,
     "timeYear": 1753,
     "dailyMinutesDown": {
       "2026-02-27": 18,
@@ -115,7 +115,7 @@
     "time": 282,
     "timeDay": 117,
     "timeWeek": 194,
-    "timeMonth": 214,
+    "timeMonth": 213,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-11-18": 147
@@ -128,17 +128,18 @@
     "slug": "frankfurt",
     "status": "down",
     "uptime": "81.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "88.75%",
     "time": 129,
     "timeDay": 109,
     "timeWeek": 114,
-    "timeMonth": 129,
+    "timeMonth": 115,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-02-28": 0,
+      "2026-03-01": 22,
+      "2026-02-28": 8,
       "2026-02-26": 47,
       "2026-02-25": 10,
       "2025-10-06": 86,
@@ -181,8 +182,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -199,7 +199,7 @@
     "time": 141,
     "timeDay": 100,
     "timeWeek": 252,
-    "timeMonth": 143,
+    "timeMonth": 141,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2026-02-18": 52,
@@ -264,7 +264,7 @@
     "time": 68,
     "timeDay": 22,
     "timeWeek": 28,
-    "timeMonth": 63,
+    "timeMonth": 68,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2025-09-10": 24,
