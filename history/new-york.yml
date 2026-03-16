@@ -1,7 +1,7 @@
 url: $IP_NYC
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2026-03-16T00:00:53.892Z
+lastUpdated: 2026-03-16T00:56:19.706Z
 startTime: 2024-11-28T23:28:06.986Z
 generator: Upptime <https://github.com/upptime/upptime>
