@@ -40,7 +40,7 @@
     "time": 1701,
     "timeDay": 1264,
     "timeWeek": 1398,
-    "timeMonth": 1629,
+    "timeMonth": 1631,
     "timeYear": 1719,
     "dailyMinutesDown": {
       "2026-03-15": 109,
@@ -160,8 +160,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
@@ -173,7 +172,7 @@
     "uptime": "91.27%",
     "uptimeDay": "86.14%",
     "uptimeWeek": "90.89%",
-    "uptimeMonth": "96.82%",
+    "uptimeMonth": "96.79%",
     "uptimeYear": "88.98%",
     "time": 144,
     "timeDay": 109,
@@ -181,7 +180,8 @@
     "timeMonth": 184,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2026-03-15": 188,
+      "2026-03-16": 1,
+      "2026-03-15": 199,
       "2026-03-14": 160,
       "2026-03-13": 122,
       "2026-03-12": 100,
@@ -244,18 +244,19 @@
     "url": "$IP_NYC",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
-    "status": "up",
+    "status": "down",
     "uptime": "94.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "93.63%",
-    "time": 69,
+    "time": 70,
     "timeDay": 8,
-    "timeWeek": 156,
+    "timeWeek": 171,
     "timeMonth": 76,
     "timeYear": 79,
     "dailyMinutesDown": {
+      "2026-03-16": 0,
       "2026-03-11": 47,
       "2026-03-09": 49,
       "2026-03-08": 1401,
