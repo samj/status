@@ -31,18 +31,19 @@
     "url": "https://samjohnston.org",
     "icon": "https://status.samj.net/logo.png",
     "slug": "sam-johnston",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.67%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "99.45%",
-    "time": 1700,
-    "timeDay": 1508,
-    "timeWeek": 1449,
-    "timeMonth": 1584,
-    "timeYear": 1720,
+    "uptimeYear": "99.46%",
+    "time": 1699,
+    "timeDay": 1097,
+    "timeWeek": 1426,
+    "timeMonth": 1578,
+    "timeYear": 1719,
     "dailyMinutesDown": {
+      "2026-03-19": 0,
       "2026-03-17": 81,
       "2026-03-16": 67,
       "2026-03-15": 109,
@@ -90,8 +91,7 @@
       "2026-01-22": 190,
       "2026-01-21": 16,
       "2026-01-20": 28,
-      "2026-01-18": 38,
-      "2026-01-16": 35
+      "2026-01-18": 38
     }
   },
   {
