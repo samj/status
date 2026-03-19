@@ -1,7 +1,7 @@
 url: $IP_LON
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2026-03-19T17:59:31.336Z
+lastUpdated: 2026-03-19T18:27:28.950Z
 startTime: 2024-11-28T23:28:06.184Z
 generator: Upptime <https://github.com/upptime/upptime>
