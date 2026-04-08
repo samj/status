@@ -10,11 +10,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 270,
-    "timeDay": 292,
-    "timeWeek": 388,
-    "timeMonth": 309,
-    "timeYear": 290,
+    "time": 271,
+    "timeDay": 423,
+    "timeWeek": 401,
+    "timeMonth": 303,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2026-04-03": 40,
       "2026-02-27": 17,
@@ -39,9 +39,9 @@
     "uptimeMonth": "96.54%",
     "uptimeYear": "99.42%",
     "time": 1686,
-    "timeDay": 1122,
-    "timeWeek": 1275,
-    "timeMonth": 1457,
+    "timeDay": 1130,
+    "timeWeek": 1245,
+    "timeMonth": 1466,
     "timeYear": 1708,
     "dailyMinutesDown": {
       "2026-04-07": 194,
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 287,
-    "timeDay": 147,
+    "time": 286,
+    "timeDay": 185,
     "timeWeek": 269,
-    "timeMonth": 367,
-    "timeYear": 292,
+    "timeMonth": 363,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2025-11-18": 147
     }
@@ -127,10 +127,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 129,
-    "timeDay": 111,
-    "timeWeek": 162,
+    "timeDay": 119,
+    "timeWeek": 156,
     "timeMonth": 128,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -141,8 +141,7 @@
       "2026-02-25": 10,
       "2025-10-06": 86,
       "2025-04-10": 1406,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -151,18 +150,19 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "london",
     "status": "down",
-    "uptime": "88.94%",
+    "uptime": "88.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.96%",
-    "uptimeYear": "85.29%",
+    "uptimeMonth": "52.89%",
+    "uptimeYear": "85.27%",
     "time": 147,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 217,
-    "timeYear": 156,
+    "timeMonth": 219,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-04-07": 1366,
+      "2026-04-08": 25,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -250,12 +250,12 @@
     "status": "up",
     "uptime": "94.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.40%",
+    "uptimeWeek": "94.89%",
     "uptimeMonth": "91.28%",
-    "uptimeYear": "94.98%",
-    "time": 79,
-    "timeDay": 22,
-    "timeWeek": 404,
+    "uptimeYear": "95.00%",
+    "time": 78,
+    "timeDay": 41,
+    "timeWeek": 352,
     "timeMonth": 201,
     "timeYear": 90,
     "dailyMinutesDown": {
@@ -308,8 +308,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   }
 ]
