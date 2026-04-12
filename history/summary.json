@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 272,
-    "timeDay": 654,
-    "timeWeek": 389,
-    "timeMonth": 306,
-    "timeYear": 290,
+    "timeDay": 311,
+    "timeWeek": 326,
+    "timeMonth": 312,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2026-04-03": 40,
       "2026-02-27": 17,
@@ -34,17 +34,17 @@
     "slug": "sam-johnston",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "92.11%",
-    "uptimeMonth": "95.64%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "95.67%",
     "uptimeYear": "99.38%",
     "time": 1694,
-    "timeDay": 1881,
-    "timeWeek": 1570,
-    "timeMonth": 1555,
-    "timeYear": 1712,
+    "timeDay": 1865,
+    "timeWeek": 1575,
+    "timeMonth": 1552,
+    "timeYear": 1710,
     "dailyMinutesDown": {
-      "2026-04-11": 124,
+      "2026-04-11": 109,
       "2026-04-10": 302,
       "2026-04-09": 114,
       "2026-04-07": 194,
@@ -89,7 +89,7 @@
       "2026-02-17": 75,
       "2026-02-16": 83,
       "2026-02-15": 98,
-      "2026-02-14": 101
+      "2026-02-14": 121
     }
   },
   {
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 286,
-    "timeDay": 205,
-    "timeWeek": 249,
-    "timeMonth": 351,
+    "timeDay": 157,
+    "timeWeek": 218,
+    "timeMonth": 347,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-11-18": 147
@@ -124,9 +124,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 129,
-    "timeDay": 137,
-    "timeWeek": 122,
-    "timeMonth": 128,
+    "timeDay": 155,
+    "timeWeek": 124,
+    "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-03-29": 18,
@@ -143,18 +143,19 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "london",
     "status": "down",
-    "uptime": "88.38%",
+    "uptime": "88.35%",
     "uptimeDay": "64.04%",
     "uptimeWeek": "9.15%",
-    "uptimeMonth": "43.51%",
+    "uptimeMonth": "43.03%",
     "uptimeYear": "84.43%",
-    "time": 146,
+    "time": 147,
     "timeDay": 111,
     "timeWeek": 111,
-    "timeMonth": 227,
+    "timeMonth": 232,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-04-11": 277,
+      "2026-04-12": 26,
+      "2026-04-11": 518,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
@@ -233,8 +234,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   },
   {
@@ -245,13 +245,13 @@
     "status": "up",
     "uptime": "94.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "94.70%",
-    "uptimeYear": "96.05%",
-    "time": 78,
-    "timeDay": 55,
-    "timeWeek": 163,
-    "timeMonth": 191,
+    "uptimeYear": "96.10%",
+    "time": 79,
+    "timeDay": 70,
+    "timeWeek": 154,
+    "timeMonth": 193,
     "timeYear": 90,
     "dailyMinutesDown": {
       "2026-04-05": 143,
@@ -299,8 +299,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   }
 ]
