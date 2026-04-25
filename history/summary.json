@@ -35,12 +35,12 @@
     "status": "up",
     "uptime": "99.53%",
     "uptimeDay": "98.60%",
-    "uptimeWeek": "95.68%",
+    "uptimeWeek": "95.71%",
     "uptimeMonth": "94.91%",
     "uptimeYear": "99.34%",
     "time": 1674,
     "timeDay": 1145,
-    "timeWeek": 1271,
+    "timeWeek": 1272,
     "timeMonth": 1494,
     "timeYear": 1694,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
     "slug": "london",
     "status": "down",
     "uptime": "86.58%",
-    "uptimeDay": "94.25%",
+    "uptimeDay": "91.20%",
     "uptimeWeek": "34.64%",
     "uptimeMonth": "17.75%",
     "uptimeYear": "85.10%",
@@ -154,7 +154,8 @@
     "timeMonth": 227,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-04-24": 83,
+      "2026-04-25": 27,
+      "2026-04-24": 100,
       "2026-04-22": 728,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -232,8 +233,7 @@
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
-      "2025-04-26": 1440,
-      "2025-04-25": 1440
+      "2025-04-26": 1440
     }
   },
   {
