@@ -121,7 +121,7 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "frankfurt",
     "status": "up",
-    "uptime": "84.23%",
+    "uptime": "84.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -149,8 +149,8 @@
     "uptime": "86.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.03%",
-    "uptimeYear": "88.23%",
+    "uptimeMonth": "49.18%",
+    "uptimeYear": "88.24%",
     "time": 150,
     "timeDay": 127,
     "timeWeek": 142,
@@ -226,8 +226,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -236,7 +235,7 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
     "status": "up",
-    "uptime": "94.91%",
+    "uptime": "94.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
