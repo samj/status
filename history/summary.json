@@ -222,15 +222,15 @@
     "url": "$IP_NYC",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
-    "status": "down",
+    "status": "up",
     "uptime": "95.12%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.19%",
     "time": 79,
-    "timeDay": 20,
-    "timeWeek": 70,
+    "timeDay": 33,
+    "timeWeek": 67,
     "timeMonth": 40,
     "timeYear": 80,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
       "2026-04-04": 58,
       "2026-04-05": 143,
       "2026-05-20": 127,
-      "2026-05-31": 0
+      "2026-05-31": 26
     }
   }
 ]
