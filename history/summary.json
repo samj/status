@@ -147,16 +147,16 @@
     "url": "$IP_LON",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "london",
-    "status": "down",
-    "uptime": "87.74%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.69%",
+    "status": "up",
+    "uptime": "87.73%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "91.67%",
     "time": 165,
-    "timeDay": 86,
-    "timeWeek": 231,
-    "timeMonth": 224,
+    "timeDay": 115,
+    "timeWeek": 220,
+    "timeMonth": 222,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2025-07-01": 34,
@@ -217,7 +217,7 @@
       "2026-04-30": 4,
       "2026-04-29": 34,
       "2026-05-15": 45,
-      "2026-06-25": 0
+      "2026-06-25": 106
     }
   },
   {
