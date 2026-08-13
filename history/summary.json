@@ -125,7 +125,7 @@
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "frankfurt",
     "status": "up",
-    "uptime": "86.71%",
+    "uptime": "86.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -226,13 +226,13 @@
     "url": "$IP_NYC",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
-    "status": "down",
+    "status": "up",
     "uptime": "95.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.22%",
-    "time": 84,
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.21%",
+    "time": 85,
     "timeDay": 12,
     "timeWeek": 62,
     "timeMonth": 103,
@@ -269,7 +269,7 @@
       "2026-05-20": 127,
       "2026-05-31": 26,
       "2026-08-09": 38,
-      "2026-08-13": 0
+      "2026-08-13": 52
     }
   }
 ]
