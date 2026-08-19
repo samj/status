@@ -226,16 +226,16 @@
     "url": "$IP_NYC",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
-    "status": "down",
-    "uptime": "95.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.59%",
+    "status": "up",
+    "uptime": "95.71%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.19%",
     "time": 85,
-    "timeDay": 41,
-    "timeWeek": 121,
-    "timeMonth": 103,
+    "timeDay": 43,
+    "timeWeek": 113,
+    "timeMonth": 102,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2025-08-27": 17,
@@ -272,7 +272,7 @@
       "2026-08-13": 52,
       "2026-08-17": 23,
       "2026-08-18": 64,
-      "2026-08-19": 0
+      "2026-08-19": 44
     }
   }
 ]
