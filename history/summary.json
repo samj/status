@@ -34,7 +34,7 @@
     "icon": "https://status.samj.net/logo.png",
     "slug": "sam-johnston",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
@@ -227,12 +227,12 @@
     "url": "$IP_NYC",
     "icon": "https://status.samj.net/logo-mg.png",
     "slug": "new-york",
-    "status": "down",
-    "uptime": "95.82%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.17%",
+    "status": "up",
+    "uptime": "95.81%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.15%",
     "time": 88,
     "timeDay": 456,
     "timeWeek": 388,
@@ -273,7 +273,7 @@
       "2026-08-18": 64,
       "2026-08-19": 44,
       "2026-09-04": 95,
-      "2026-09-06": 0
+      "2026-09-06": 124
     }
   }
 ]
